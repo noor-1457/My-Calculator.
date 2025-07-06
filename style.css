@@ -2,3 +2,30 @@ html {
   height: 100%;
   width: 100%;
 }
+
+.button {
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 50%;
+  cursor: pointer;
+  width: 60px
+}
+
+.row {
+  margin: 8px 0;
+}
+
+.row input {
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  font-size: 15px;
+  width: 214px
+}
+.container{
+  background-color:  #303234;
+  border-radius:10px;
+}
