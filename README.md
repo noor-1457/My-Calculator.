@@ -26,32 +26,34 @@ A simple, clean, and fully functional calculator built using HTML, CSS, and Java
 
 ## 📸 Screenshots
 
-[Screenshot ](https://github.com/user-attachments/assets/a2e9c1ac-0612-441f-af06-8bfd24f1fb72)
+![App Screenshot](./Screenshot 2025-07-08 235501.png)
+
 
 
 ---
 
 ## 📂 How to Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/noor-1457/My-Calculator.git
-2. Navigate into the project directory:
-cd My-Calculator
-3.Open index.html in your browser.
 
-📌 Future Improvements
+##📌 Future Improvements
 Add keyboard support
-
 Add scientific calculator functions (sin, cos, log, etc.)
-
 Add themes (dark/light mode toggle)
 
-🙌 Contributing
+
+##🙌 Contributing
 Pull requests are welcome! If you have suggestions for improvements, feel free to fork the repo and submit a PR.
 
-📃 License
+##📃 License
 This project is open-source and available under the MIT License.
 
-🤝 Connect
-GitHub: @noor-1457
+```bash
+ git clone https://github.com/noor-1457/My-Calculator.git
+cd Weather-app
+npm install
+
+
+🙋‍♀️ Author
+Noor Fatima
+GitHub Profile
+
