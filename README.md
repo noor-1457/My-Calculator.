@@ -26,8 +26,8 @@ A simple, clean, and fully functional calculator built using HTML, CSS, and Java
 
 ## 📸 Screenshots
 
-![Uploading image.png…](![Screenshot ](https://github.com/user-attachments/assets/a2e9c1ac-0612-441f-af06-8bfd24f1fb72)
-)
+[Screenshot ](https://github.com/user-attachments/assets/a2e9c1ac-0612-441f-af06-8bfd24f1fb72)
+
 
 ---
 
