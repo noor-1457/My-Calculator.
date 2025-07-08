@@ -32,19 +32,19 @@ A simple, clean, and fully functional calculator built using HTML, CSS, and Java
 
 ---
 
-##📌 Future Improvements
+📌 Future Improvements
 Add keyboard support
 Add scientific calculator functions (sin, cos, log, etc.)
 Add themes (dark/light mode toggle)
 
 ---
 
-##🙌 Contributing
+🙌 Contributing
 Pull requests are welcome! If you have suggestions for improvements, feel free to fork the repo and submit a PR.
 
 ---
 
-##📃 License
+📃 License
 This project is open-source and available under the MIT License.
 
 ---
